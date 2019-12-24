@@ -1,0 +1,12 @@
+{
+  "name": "consulty",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.2.2",
+    "tailwindcss": "~0.7.2"
+  },
+  "devDependencies": {
+    "postcss-extend": "^1.0.5",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
